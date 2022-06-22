@@ -7,6 +7,7 @@
         <entry key="..\:/Users/user/AndroidStudioProjects/mingguasessment/app/src/main/res/drawable/home_icons.xml" value="0.2115" />
         <entry key="..\:/Users/user/AndroidStudioProjects/mingguasessment/app/src/main/res/drawable/ic_friends_clicked.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/mingguasessment/app/src/main/res/drawable/ic_home_clicked.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mingguasessment/app/src/main/res/drawable/ic_menu_unclicked.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/mingguasessment/app/src/main/res/drawable/ic_messages_unclicked.xml" value="0.2115" />
         <entry key="..\:/Users/user/AndroidStudioProjects/mingguasessment/app/src/main/res/drawable/ic_outline_home_24.xml" value="0.2115" />
         <entry key="..\:/Users/user/AndroidStudioProjects/mingguasessment/app/src/main/res/drawable/ic_outline_message_24.xml" value="0.2115" />
@@ -15,7 +16,7 @@
         <entry key="..\:/Users/user/AndroidStudioProjects/mingguasessment/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/mingguasessment/app/src/main/res/layout/fragment_friends.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/mingguasessment/app/src/main/res/layout/fragment_home.xml" value="0.1" />
-        <entry key="..\:/Users/user/AndroidStudioProjects/mingguasessment/app/src/main/res/layout/fragment_menu.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mingguasessment/app/src/main/res/layout/fragment_menu.xml" value="0.18" />
         <entry key="..\:/Users/user/AndroidStudioProjects/mingguasessment/app/src/main/res/layout/fragment_messages.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/mingguasessment/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
       </map>
